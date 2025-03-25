@@ -64,7 +64,7 @@ try:
 
               
                 try:
-                    WebDriverWait(driver, 0.5).until(
+                    WebDriverWait(driver, 2).until(
                         EC.presence_of_element_located((By.CLASS_NAME, 'statistics-table'))
                     )
                 except:
