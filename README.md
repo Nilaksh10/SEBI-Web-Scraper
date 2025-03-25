@@ -65,7 +65,7 @@ It would take a lot of time to scrape all the data so for testing purposes press
 - Save the raw data to `sebi_pms_data.csv`.
 
 ### 2. Clean the Extracted Data
-
+-Change the path of csv file according to your machine.... 
 ```sh
 python cleancsv.py
 ```
