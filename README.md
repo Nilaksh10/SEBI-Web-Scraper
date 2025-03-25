@@ -57,6 +57,9 @@ python SebiScrappy.py
 ```
 ### It has a small issue as SEBI has changed their website they currently dont allow scrapers to get data so you would just need to press the GO button once when the Selenium script is running on the chrome browser and then the scraping will start(SEBI changed it after this project was made...)
 
+###
+It would take a lot of time to scrape all the data so for testing purposes press ctrl+C on terminal after a few minutes. 
+
 #### This script will:
 - Use **Selenium** to navigate the SEBI Portfolio Managers website.
 - Extract relevant attributes for each portfolio manager.
