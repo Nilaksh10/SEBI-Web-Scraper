@@ -17,7 +17,6 @@ Ensure you have the following installed on your system:
 
 - **Python (>=3.8)**
 - **pip** (Python package manager)
-- **Google Chrome** and **ChromeDriver** (matching your Chrome version)
 - **Virtual environment** (optional but recommended)
 
 ## Installation & Setup
